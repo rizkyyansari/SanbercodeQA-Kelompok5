@@ -20,7 +20,7 @@ Due Date : 5 Juni 2023
 
 Link Test Cases Document  :
 ==================================================
-Indah Azzura 
+Indah Azzura :
 ==================================================
 1. Login & Logout 
 
