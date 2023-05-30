@@ -19,9 +19,9 @@ Start Date : 29 Mei 2023
 Due Date : 5 Juni 2023
 
 Link Test Cases Document  :
-=================================================
-@oneazzura / indah azzura 
-===================================================
+==================================================
+Indah Azzura 
+==================================================
 1. Login & Logout 
 
     | Link Test Case Document : 
@@ -30,8 +30,8 @@ Link Test Cases Document  :
 
     | Link Test Case Document : 
 
-@iamkyko
-===================================================
+Rizky Melinda Pranati :
+==================================================
 3. Menu Admin - User Management - Users - Add User 
 
     | Link Test Case Document : 
@@ -44,8 +44,8 @@ Link Test Cases Document  :
 
     | Link Test Case Document : 
 
-@agneszahrani :
-=====================================================
+Agnes Zahrani :
+==================================================
 6. Menu Admin - Organization
 
     | Link Test Case Document : 
@@ -58,8 +58,8 @@ Link Test Cases Document  :
 
     | Link Test Case Document : 
 
-@frustattea :
-========================================================
+Putri Syahrani :
+==================================================
 9. Menu Admin - Organization - Delete Locations
 
     | Link Test Case Document : 
@@ -68,8 +68,8 @@ Link Test Cases Document  :
 
     | Link Test Case Document : 
 
-@rizkyyansari - Muhammad Rizky Ansari:
-======================================================
+Muhammad Rizky Ansari:
+==================================================
 11. Menu PIM - Add Employee
 
     | Link Test Case Document : 
@@ -81,10 +81,3 @@ Link Test Cases Document  :
 13. Menu PIM - Delete Employee
 
     | Link Test Case Document : 
-
-
-
-
-
-
-
