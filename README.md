@@ -2,6 +2,8 @@
 Tugas Final Project Batch 45 Sanbercode QA 
 ==================================================
 
+Buatlah rangkaian test plan dan test execution dari website https://opensource-demo.orangehrmlive.com/ 
+
 Anggota Team 5
 ==================================================
 1. Muhammad Rizky Ansari
