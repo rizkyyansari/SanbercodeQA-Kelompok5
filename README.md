@@ -81,3 +81,8 @@ Muhammad Rizky Ansari:
 13. Menu PIM - Delete Employee
 
     | Link Test Case Document : 
+    
+Untuk Menjalankan Script :
+===================================================
+Script Atuomation Tersimpan di SanberCode QA Batch 45 Project\SanbercodeQA-Kelompok5 Final Project\Automation Script Kelompok 5\cypress\e2e
+jalan kan command : npx cypress open
