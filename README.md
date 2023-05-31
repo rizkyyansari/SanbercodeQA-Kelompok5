@@ -24,63 +24,37 @@ Indah Azzura :
 ==================================================
 1. Login & Logout 
 
-    | Link Test Case Document : 
-
 2. Menu Admin - User Management - Users 
-
-    | Link Test Case Document : 
 
 Rizky Melinda Pranati :
 ==================================================
 3. Menu Admin - User Management - Users - Add User 
 
-    | Link Test Case Document : 
-
 4. Menu Admin - User Management - Users - Edit User
 
-    | Link Test Case Document : 
-
 5. Menu Admin - User Management - Users - Delete User
-
-    | Link Test Case Document : 
 
 Agnes Zahrani :
 ==================================================
 6. Menu Admin - Organization
 
-    | Link Test Case Document : 
-
 7. Menu Admin - Organization - Add Locations
 
-    | Link Test Case Document : 
-
 8. Menu Admin - Organization - Edit Locations
-
-    | Link Test Case Document : 
 
 Putri Syahrani :
 ==================================================
 9. Menu Admin - Organization - Delete Locations
 
-    | Link Test Case Document : 
-
 10. Menu PIM - Employee List
-
-    | Link Test Case Document : 
 
 Muhammad Rizky Ansari:
 ==================================================
 11. Menu PIM - Add Employee
 
-    | Link Test Case Document : 
-
 12. Menu PIM - Edit Employee
 
-    | Link Test Case Document : 
-
 13. Menu PIM - Delete Employee
-
-    | Link Test Case Document : 
     
 Untuk Menjalankan Script :
 ===================================================
