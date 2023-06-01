@@ -44,6 +44,8 @@ Agnes Zahrani :
 
 Putri Syahrani :
 ==================================================
+Test Case Document : https://docs.google.com/spreadsheets/d/1D1YOFXCAgJzc2O1-LAQvsyzA6WdZNCoKOwpKZ4qUdVI/edit?usp=sharing
+
 9. Menu Admin - Organization - Delete Locations
 
 10. Menu PIM - Employee List
