@@ -50,6 +50,8 @@ Putri Syahrani :
 
 Muhammad Rizky Ansari:
 ==================================================
+Test Case Document : https://docs.google.com/spreadsheets/d/1-My1LIA1aEdKC84yQGcuzWFuH8r3dMTHzEhP3861LQg/edit?usp=sharing
+
 11. Menu PIM - Add Employee
 
 12. Menu PIM - Edit Employee
