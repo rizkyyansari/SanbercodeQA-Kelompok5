@@ -18,8 +18,10 @@ Start Date : 29 Mei 2023
 
 Due Date : 5 Juni 2023
 
-Link Test Cases Document  :
+Link Test Cases Document  : 
 ==================================================
+https://docs.google.com/spreadsheets/d/1xuo7hCtQPObMm-O7MAq8boKe8QNmlqh98tbdHfGYaxM/edit?usp=sharing
+
 Indah Azzura :
 ==================================================
 1. Login & Logout 
@@ -28,6 +30,8 @@ Indah Azzura :
 
 Rizky Melinda Pranati :
 ==================================================
+Test Case Document : https://docs.google.com/spreadsheets/d/11DTtNZrGfujRj6nNPoBUVociLgnKdGBQuUnRMkjAzTs/edit?usp=sharing
+
 3. Menu Admin - User Management - Users - Add User 
 
 4. Menu Admin - User Management - Users - Edit User
