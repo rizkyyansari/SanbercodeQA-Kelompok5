@@ -68,5 +68,21 @@ Video Record Automation Cypress : https://drive.google.com/drive/folders/1AxOtJt
     
 Untuk Menjalankan Script :
 ===================================================
+Required To Install Node.js
+
+If you're using npm to install Cypress , Need to Install At Least Node.js Ver.14x
+
+Node.js 14.x | Node.js 16.x  |Node.js 18.x and above
+
+If You Already Have Installed Node.js
+
+Use This Command to Instal Cypress :
+
+- npm cypress install
+
+Or If you Already have installed Cypress , Read the Guidance Below to Run the Script
+
 Script Atuomation Tersimpan di SanberCode QA Batch 45 Project\SanbercodeQA-Kelompok5 Final Project\Automation Script Kelompok 5\cypress\e2e
-jalan kan command : npx cypress open
+==========================================================================================================================
+
+jalan kan command : npx cypress open in your terminal it will automatically open cypress program
