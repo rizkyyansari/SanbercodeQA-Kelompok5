@@ -51,6 +51,7 @@ Test Case Document : https://docs.google.com/spreadsheets/d/12ABoQTcBQjSaghov5-G
 Putri Syahrani :
 ==================================================
 Test Case Document : https://docs.google.com/spreadsheets/d/1D1YOFXCAgJzc2O1-LAQvsyzA6WdZNCoKOwpKZ4qUdVI/edit?usp=sharing
+Record Cypress : https://drive.google.com/drive/folders/1obMDHaUSAt2prp8akDZRxOZZuRmiN_KP?usp=sharing
 
 9. Menu Admin - Organization - Delete Locations
 
