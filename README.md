@@ -24,6 +24,9 @@ https://docs.google.com/spreadsheets/d/1xuo7hCtQPObMm-O7MAq8boKe8QNmlqh98tbdHfGY
 
 Indah Azzura :
 ==================================================
+Test Case Document : 
+Record Cypress Automation Testing :
+
 1. Login & Logout 
 
 2. Menu Admin - User Management - Users 
@@ -31,6 +34,8 @@ Indah Azzura :
 Rizky Melinda Pranati :
 ==================================================
 Test Case Document : https://docs.google.com/spreadsheets/d/11DTtNZrGfujRj6nNPoBUVociLgnKdGBQuUnRMkjAzTs/edit?usp=sharing
+
+Record Cypress Automation Testing :
 
 3. Menu Admin - User Management - Users - Add User 
 
@@ -42,6 +47,8 @@ Agnes Zahrani :
 ==================================================
 Test Case Document : https://docs.google.com/spreadsheets/d/12ABoQTcBQjSaghov5-GnrWxhs9PYvnhP/edit?usp=sharing&ouid=115063764332650422029&rtpof=true&sd=true
 
+Record Cypress Automation Testing : https://drive.google.com/drive/folders/1tXIrKufUTSq7-RVAPjYe6n36jPo3POmJ?usp=sharing
+
 6. Menu Admin - Organization
 
 7. Menu Admin - Organization - Add Locations
@@ -51,7 +58,8 @@ Test Case Document : https://docs.google.com/spreadsheets/d/12ABoQTcBQjSaghov5-G
 Putri Syahrani :
 ==================================================
 Test Case Document : https://docs.google.com/spreadsheets/d/1D1YOFXCAgJzc2O1-LAQvsyzA6WdZNCoKOwpKZ4qUdVI/edit?usp=sharing
-Record Cypress : https://drive.google.com/drive/folders/1obMDHaUSAt2prp8akDZRxOZZuRmiN_KP?usp=sharing
+
+Record Cypress Automation Testing : https://drive.google.com/drive/folders/1obMDHaUSAt2prp8akDZRxOZZuRmiN_KP?usp=sharing
 
 9. Menu Admin - Organization - Delete Locations
 
@@ -61,7 +69,7 @@ Muhammad Rizky Ansari:
 ==================================================
 Test Case Document : https://docs.google.com/spreadsheets/d/1-My1LIA1aEdKC84yQGcuzWFuH8r3dMTHzEhP3861LQg/edit?usp=sharing
 
-Video Record Automation Cypress : https://drive.google.com/drive/folders/1AxOtJta2nE5uoUtwyJn3SEUm7F5ZBmpm?usp=drive_link
+Record Cypress Automation Testing : https://drive.google.com/drive/folders/1AxOtJta2nE5uoUtwyJn3SEUm7F5ZBmpm?usp=drive_link
 
 11. Menu PIM - Add Employee
 
@@ -85,7 +93,7 @@ Use This Command to Instal Cypress :
 
 Or If you Already have installed Cypress , Read the Guidance Below to Run the Script
 
-Script Atuomation Tersimpan di SanberCode QA Batch 45 Project\SanbercodeQA-Kelompok5 Final Project\Automation Script Kelompok 5\cypress\e2e
+Script Atuomation Tersimpan di SanberCode QA Batch 45 Project\SanbercodeQA-Kelompok5 Final Project\Automation Script\cypress\e2e
 ==========================================================================================================================
 
-jalan kan command : npx cypress open in your terminal it will automatically open cypress program
+Jalankan command : `npx cypress open` in your terminal it will automatically open cypress program
