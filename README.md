@@ -93,7 +93,12 @@ Use This Command to Instal Cypress :
 
 Or If you Already have installed Cypress , Read the Guidance Below to Run the Script
 
-Script Atuomation Tersimpan di SanberCode QA Batch 45 Project\SanbercodeQA-Kelompok5 Final Project\Automation Script\cypress\e2e
+Script Atuomation Tersimpan di :
 ==========================================================================================================================
+SanberCode QA Batch 45 Project\SanbercodeQA-Kelompok5 Final Project
+
+If you using vs code paste this command instead adjust with your path location: 
+
+Set-Location -Path "F:\SanberCode QA Batch 45 Project\SanbercodeQA-Kelompok5 Final Project\3. Automation Script"
 
 Jalankan command : `npx cypress open` in your terminal it will automatically open cypress program
